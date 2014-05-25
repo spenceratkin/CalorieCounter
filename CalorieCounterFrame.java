@@ -7,7 +7,7 @@ public class CalorieCounterFrame extends JFrame
 	public CalorieCounterFrame()
 	{
 		//sets title of the frame
-		setTitle( "Calorie Tracker" );
+		setTitle( "Calorie Counter" );
 		//sets position and width/height of frame
 		setBounds( 267, 200, 1000, 500 );
 		//sets frame to be resizable
