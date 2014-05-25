@@ -1,0 +1,4 @@
+A simple Java application that tracks calorie intake and calculates net calorie intake based on exercise that is performed.
+
+Run:
+java -jar CalorieCounter.jar
